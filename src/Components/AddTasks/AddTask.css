@@ -1,0 +1,15 @@
+input {
+    background: none;
+    outline: none;
+    position: relative;
+    width: 14.5rem;
+}
+
+.underlineText {
+    height: 4px;
+    width: 100%;
+    top: 3.3rem;
+    left: 0;
+    border-radius: 5rem;
+    background-color: #1a3053;
+}
